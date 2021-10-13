@@ -126,13 +126,7 @@ pop.Data.20.View %>%
 
 Answer the following contextual question: What does this imply about Ohio's size and demographics?
 
-This program shows that Ohio's population is increasing, especially in more urban counties such as Delaware and Franklin County. Some counties, specifically Jefferson, Carroll and Monroe County have an overall declining population. We see that the population change in younger people is smaller than the change in the older category, indicating that most counties have an older population and younger people are not staying in the county that long. 
-
-Provide a short summary of what you learned contextually from the analysis in the program you wrote.
-
-Include this summary in the Readme.md file on your GitHub site.
-The Readme.md should have 1) a description of the program AND 2) a *short* summary of your analyses based on the program 
-
+This program shows that Ohio's population is mostly increasing, especially in more urban counties such as Delaware and Franklin County, but the rate at which is increasing is different among age groups. Some counties, specifically Jefferson, Carroll and Monroe County have an overall declining population. We see that the population change in younger people is smaller than the change in the older category, indicating that most counties have an older population and younger people are not staying in the county that long. For example, in Delaware County the under 20 population grew by 24% between 2010 and 2019 and the 65+ population grew by almost 77% in Delaware County. 
 
 
 
