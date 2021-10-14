@@ -4,6 +4,9 @@ author: "Ava Kalina"
 date: "10/6/2021"
 output: html_document
 ---
+stored in: untitledfolder2 -> ActualTakeHomeExam
+Github Repo: ActualTakeHomeExam
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
