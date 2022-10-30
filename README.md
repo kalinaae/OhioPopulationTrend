@@ -1,4 +1,4 @@
-# ActualTakeHomeExam
+# OhioCountyPopulationTrends
 
 This is a program that produces the three counties with the highest and lowest populations in 2010 and 2019 across two age groups. This can be used to look at trends in population, overall and within the young/older populations.
 
